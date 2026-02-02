@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/charronadobe/doc-authoring/
+    type: markup
+
+folders:
+  /products/: /products/default
